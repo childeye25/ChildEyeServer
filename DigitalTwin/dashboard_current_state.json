@@ -1,0 +1,14 @@
+{
+    "status": "alert",
+    "reason": "pain + fever \u2192 possible illness",
+    "confidence": 0.9,
+    "timestamp": "2025-11-03T19:07:18.111758",
+    "raw_input": {
+        "face_emotion": "cry",
+        "cry_emotion": "pain",
+        "hr": 134,
+        "rr": 40,
+        "temp": 38.2,
+        "sleep_state": "awake"
+    }
+}

@@ -1,0 +1,73 @@
+[
+    {
+        "timestamp": "2025-10-26T11:38:02.870782",
+        "status": "alert",
+        "reason": "pain + fever \u2192 possible illness",
+        "indicators": {
+            "hr": 134,
+            "rr": 40,
+            "temp": 38.2,
+            "face_emotion": "cry",
+            "cry_emotion": "pain",
+            "sleep_state": "awake"
+        }
+    },
+    {
+        "timestamp": "2025-10-26T12:15:05.819854",
+        "status": "alert",
+        "reason": "pain + fever \u2192 possible illness",
+        "indicators": {
+            "hr": 134,
+            "rr": 40,
+            "temp": 38.2,
+            "face_emotion": "cry",
+            "cry_emotion": "pain",
+            "sleep_state": "awake"
+        }
+    },
+    {
+        "timestamp": "2025-10-26T12:32:29.381452",
+        "status": "normal",
+        "reason": "healthy and happy state",
+        "indicators": {
+            "hr": 118,
+            "rr": 32,
+            "temp": 36.9,
+            "face_emotion": "happy",
+            "cry_emotion": "laugh",
+            "sleep_state": "awake"
+        }
+    },
+    {
+        "timestamp": "2025-10-26T12:32:29.632876",
+        "status": "sleeping",
+        "reason": "deep sleep detected",
+        "indicators": {
+            "hr": 95,
+            "rr": 24,
+            "temp": 36.6,
+            "face_emotion": "sleep",
+            "cry_emotion": "tired",
+            "sleep_state": "deep_sleep"
+        }
+    },
+    {
+        "timestamp": "2025-10-26T12:32:29.654432",
+        "status": "alert",
+        "reason": "pain + fever \u2192 possible illness",
+        "indicators": {
+            "hr": 140,
+            "rr": 42,
+            "temp": 38.7,
+            "face_emotion": "cry",
+            "cry_emotion": "pain",
+            "sleep_state": "awake"
+        }
+    },
+    {
+        "timestamp": "2025-11-03T19:07:18.111758",
+        "status": "alert",
+        "reason": "pain + fever \u2192 possible illness",
+        "indicators": {}
+    }
+]

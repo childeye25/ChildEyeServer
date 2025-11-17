@@ -1,0 +1,15 @@
+{
+    "report_generated_at": "2025-10-26T12:15:20.510207",
+    "period_start": "2025-10-26T11:38:02.870782",
+    "period_end": "2025-10-26T12:15:05.819854",
+    "total_records": 2,
+    "total_alerts": 2,
+    "total_warnings": 0,
+    "avg_temp": 38.2,
+    "avg_hr": 134,
+    "avg_rr": 40,
+    "most_common_status": "alert",
+    "dominant_reason": "pain + fever \u2192 possible illness",
+    "sleeping_ratio": 0.0,
+    "alert_ratio": 1.0
+}

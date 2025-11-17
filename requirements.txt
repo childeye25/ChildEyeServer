@@ -1,0 +1,11 @@
+flask
+flask_cors
+mysql-connector-python
+python-dotenv
+openai
+pillow
+numpy
+tensorflow
+librosa
+requests
+statistics
